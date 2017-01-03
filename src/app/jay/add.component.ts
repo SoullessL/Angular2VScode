@@ -1,6 +1,6 @@
 import { FormsModule } from '@angular/forms';
 import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router'
+import { Router } from '@angular/router';
 import { HeroDataService, HeroClass } from './webapi.component';
 
 @Component({
